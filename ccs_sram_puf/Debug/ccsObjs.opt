@@ -1,0 +1,1 @@
+"./new.obj" "./startup_ccs.obj" "./utils/uartstdio.obj" "../new_ccs.cmd" -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" 
